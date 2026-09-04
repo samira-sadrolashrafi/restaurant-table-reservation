@@ -1,8 +1,12 @@
 # AURA Restaurant — TypeScript Reservation System
 
-https://samira-sadrolashrafi.github.io/restaurant-table-reservation/
-
 A responsive Persian RTL restaurant website featuring an interactive table reservation system built with **TypeScript**.
+
+## Live Demo
+
+[View the live website](https://samira-sadrolashrafi.github.io/restaurant-table-reservation/)
+
+## About the Project
 
 The project combines a restaurant landing page with a client-side reservation interface where users can select tables, view their capacity, confirm reservations, review reserved tables, and clear reservations.
 
